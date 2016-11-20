@@ -1,5 +1,4 @@
 node {
-   def mvnHome
    stage('Build and unit tests') { // for display purposes
      sleep 2
    }
